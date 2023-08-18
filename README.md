@@ -1,5 +1,7 @@
 ### Hi there 👋
-https://github-readme-stats.vercel.app/api?username=mikandan
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikandan
+)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **mikandan/mikandan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
